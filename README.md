@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @franckbattu, fullstack engineer.
 - 👀 I’m interested in web development and new technologies.
-- 🌱 I’m currently learning VueJS API Composition with ViteJS/
+- 🌱 I’m currently learning VueJS API Composition with ViteJS
 - 📫 How to reach me: franck.battu@outlook.fr
